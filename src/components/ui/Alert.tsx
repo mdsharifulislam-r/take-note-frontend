@@ -8,6 +8,8 @@ type AlertProps = {
   className?: string;
 };
 
+
+
 const variants = {
   error: {
     container: 'bg-red-50 border-red-200 text-red-800',
